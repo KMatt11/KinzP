@@ -7,12 +7,14 @@
 - 💬 Ask me about my cats! lol
 - :mailbox_with_mail: How to reach me: KinseyParham@gmail.com
 - :womens: Pronouns: she/her 
-- :tada: Fun facts: My favorite color is pink, I love anything with glitter, I'm a typical gemini :gemini:, I hiccup when I laugh too hard, I live at the beach :palm_tree: but miss the mountains, I love coffee (too much!!), I love all Holidays but love Halloween the most :jack_o_lantern:, I love McDonald's and all junk food really, and I strive to have the most fun everyday!  
-- :bamboo: Thank you for reading my bio! Follow me with the links below & let's collaborate!
+- :tada: Fun facts: My favorite color is pink, I love anything with :sparkles:glitter, I'm a typical gemini :gemini:, I hiccup when I laugh too hard, I live at the beach :palm_tree: but miss the mountains, I love coffee (too much!!), I love all Holidays but love Halloween the most :jack_o_lantern:, I love McDonald's and all junk food really, and I strive to have the most fun everyday!  
+- :blue_heart: Thank you for reading my bio! Follow me with the links below & let's collaborate!
 
 [![Linkedin Badge](https://img.shields.io/badge/-Kinsey%20Parham-blue?style=flat-square&logo=Linkedin&logoColor=white&link=<https://www.linkedin.com/in/kinseyparham/>)](<https://www.linkedin.com/in/kinseyparham/>)
 
 [![Medium Badge](https://img.shields.io/badge/Kinsey%20Parham-12100E?style=flat-square&logo=medium&logoColor=white&link=<https://medium.com/@kinseyparham>)](<https://medium.com/@kinseyparham>)
+
+[![Gmail Badge](https://img.shields.io/badge/-KinseyParham@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:<KinseyParham@gmail.com>)](mailto:<KinseyParham@gmail.com>)
 
 ## ⚡ Technologies:
 
