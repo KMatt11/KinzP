@@ -17,7 +17,6 @@
 
 [![Medium Badge](https://img.shields.io/badge/Kinsey%20Parham-12100E?style=flat-square&logo=medium&logoColor=white&link=<https://medium.com/@kinseyparham>)](<https://medium.com/@kinseyparham>)
 
-[![Gmail Badge](https://img.shields.io/badge/-KinseyParham@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:<KinseyParham@gmail.com>)](mailto:<KinseyParham@gmail.com>)
 
 ## ⚡ Technologies:
 
@@ -30,7 +29,6 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=KinzP&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KinzP&hide=TeX&layout=compact)
 
 
