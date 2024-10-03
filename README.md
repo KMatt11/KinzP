@@ -5,10 +5,10 @@
 ### Hey y'all 👋 My Name is Kinsey Parham - it's nice to meet you!
 <!--🔭 I’m currently working on-->
 
-- 👀 I’m a DevOps Engineer & Technical Writer for Defense Unicorns
+- 👀 I’m a DevSecOps Engineer & Technical Writer 
 - :two_hearts: I’m looking to collaborate on anything & everything to do with DevOps!
 - 💬 Ask me about my cats! lol
-- :mailbox_with_mail: How to reach me: KinseyParham@defenseunicorns.com
+- :mailbox_with_mail: How to reach me: KinseyLMatthews@gmail.com
 - :womens: Pronouns: she/her 
 - :tada: Fun facts: My favorite color is pink, I love anything with :sparkles:glitter, I hiccup when I laugh too hard, I live at the beach :palm_tree: but miss the mountains, I love coffee (too much!!) and I strive to have the most fun everyday!  
 - :blue_heart: Thank you for reading my bio! Follow me with the links below & let's collaborate!
