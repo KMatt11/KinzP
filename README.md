@@ -1,4 +1,4 @@
-### Hey y'all 👋 My Name is Kinsey Parham - it's nice to meet you!
+### Hey y'all 👋 My Name is Kinsey Matthews - it's nice to meet you!
 <!--🔭 I’m currently working on-->
 
 - 👀 I’m a DevSecOps Engineer & Technical Writer 
